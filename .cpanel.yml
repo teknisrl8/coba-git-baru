@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/winq5475/public_ftp/git
+- export DEPLOYPATH=/home/winq5475/public_ftp/coba-git-rumahweb
 - /bin/cp -R * $DEPLOYPATH
